@@ -29,6 +29,8 @@ namespace WindowsFormsApplication1
             //        this.textBox2.AppendText(tmp + Environment.NewLine);
             //    }
             //}
+
+            //发生大幅度撒
         }
     }
 }
